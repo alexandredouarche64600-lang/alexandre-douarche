@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexandredouarche64600-lang.github.io/alexandre-douarche/sitemap.xml
